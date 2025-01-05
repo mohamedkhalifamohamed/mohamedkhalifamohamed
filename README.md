@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me +31 617 416 680, mohammedkhalifamohd@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a level 4.1 as a kite surfer and an advanced Open Water Diver.
 
 <!---
 mohamedkhalifamohamed/mohamedkhalifamohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
