@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohamedkhalifamohamed
 - 👀 I’m interested in Web development, Java, SQLDatabase, DevOps, RabbitMQ and AI Tools development.
 - 🌱 I’m currently learning Software Engineering at Saxion University of Applied Sciences.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Web App development
 - 📫 How to reach me +31 617 416 680, mohammedkhalifamohd@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a level 4.1 as a kite surfer and an advanced Open Water Diver.
