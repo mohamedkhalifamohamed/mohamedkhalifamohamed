@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohamedkhalifamohamed
-- 👀 I’m interested in Web App development, Java, SQLDatabase, DevOps, RabbitMQ and AI Tools development.
+- 👀 I’m interested in Web App development, Java, SQL Database Management, DevOps, RabbitMQ and AI Tools development.
 - 🌱 I’m currently learning Software Engineering at Saxion University of Applied Sciences.
 - 💞️ I’m looking to collaborate on Web App development
 - 📫 How to reach me +31 617 416 680, mohammedkhalifamohd@gmail.com
